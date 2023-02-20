@@ -1,2 +1,0 @@
-amirHello.sayHello()
-aminHi.sayHi()
