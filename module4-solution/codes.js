@@ -1,0 +1,2 @@
+amirHello.sayHello()
+aminHi.sayHi()
